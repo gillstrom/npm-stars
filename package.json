@@ -1,0 +1,44 @@
+{
+  "name": "npm-stars",
+  "version": "0.0.0",
+  "description": "Get stars by a npm user",
+  "license": "MIT",
+  "repository": "gillstrom/npm-stars",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "api",
+    "fetch",
+    "get",
+    "npm",
+    "packages",
+    "star",
+    "starred",
+    "stars",
+    "user"
+  ],
+  "dependencies": {
+    "got": "^5.4.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
