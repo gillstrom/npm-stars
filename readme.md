@@ -1,6 +1,6 @@
 # npm-stars [![Build Status](https://travis-ci.org/gillstrom/npm-stars.svg?branch=master)](https://travis-ci.org/gillstrom/npm-stars)
 
-> Get stars by a npm user
+> Get starred packages by a npm user
 
 
 ## Install
