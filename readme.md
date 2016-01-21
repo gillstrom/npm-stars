@@ -26,7 +26,7 @@ npmStars('gillstrom').then(res => {
 
 ### npmStars(username)
 
-#### input
+#### username
 
 Type: `string`
 
