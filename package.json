@@ -1,6 +1,6 @@
 {
   "name": "npm-stars",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get stars by a npm user",
   "license": "MIT",
   "repository": "gillstrom/npm-stars",
@@ -30,7 +30,8 @@
     "user"
   ],
   "dependencies": {
-    "got": "^5.4.0"
+    "got": "^5.4.0",
+    "pinkie-promise": "^2.0.0"
   },
   "devDependencies": {
     "ava": "*",
